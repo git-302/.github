@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to the home of Git302 👋
 
 <!--
 
